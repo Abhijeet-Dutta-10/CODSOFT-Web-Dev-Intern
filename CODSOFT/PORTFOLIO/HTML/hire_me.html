@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Let's Talk</title>
+  <link rel="stylesheet" href="talk.css">
+</head>
+<body>
+  <div class="login-container">
+    <form id="login-form">
+      <center><h2>Talk With Abhijeet !!!</h2></center><br>
+      <div class="input-group">
+        <label for="company">Company Name :</label>
+        <input type="text" id="company" placeholder="Name" required>
+      </div>
+      <div class="input-group">
+        <label for="contact">Contact Details :</label>
+        <input type="text" id="contact" placeholder="Details" required>
+      </div>
+      <div class="input-group">
+        <label for="brochure">Brochure :</label>
+        <input type="file" id="brochure" accept=".pdf,.doc,.docx">
+      </div>
+      <div class="input-group">
+        <label for="role">Role :</label>
+        <select style="width:419px;" id="role" required>
+          <option value="">Select Role</option>
+          <option value="Developer">Data Analyst</option>
+          <option value="Designer">Designer</option>
+          <option value="Manager">Front End Developer</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <div class="input-group">
+        <label for="time">Preferred Time to Talk :</label>
+        <input type="datetime-local" id="time" required>
+      </div><br>
+      <a href="portfolio.html"><center><button type="submit">DONE</button></center></a>
+    </form>
+  </div>
+  <script src="talk.js"></script>
+</body>  
+</html>

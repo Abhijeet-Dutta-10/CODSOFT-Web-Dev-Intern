@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('login.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; background-attachment: fixed;
+  }
+
+  .login-container {
+    background-color: rgba(117, 182, 255, 0.9);
+    opacity: 0.7;
+    padding: 50px;
+    padding-right:72px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(128, 144, 250, 0.9);
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+    width: 400px;
+
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input,
+  .input-group select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
