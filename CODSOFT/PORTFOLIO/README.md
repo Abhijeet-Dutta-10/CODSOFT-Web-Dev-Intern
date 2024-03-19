@@ -9,8 +9,9 @@ My Portfolio Website !!!
 <hr>
 
 Features : 
-ANIMATED NAME - Created using Cascading Style sheets . 
-Cool looking footers .
+<br>ANIMATED NAME - Created using Cascading Style sheets . 
+<br>Cool looking footers .
+<br> Stylish Buttons .
 
 ![image](https://github.com/Abhijeet-Dutta-10/CODSOFT-Web-Dev-Intern/assets/156598278/bb7ce8f0-45ff-4669-a5cb-420c9be25af3)
 <hr>
