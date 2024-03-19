@@ -1,4 +1,4 @@
-<h2> TASK 1</h2>
+<h2> TASK 2</h2>
 <h3> LANDING PAGE</h3>
 <hr>
 <p> Created a Landing page for Mini-Cooper-JSW</p>
